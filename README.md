@@ -1,7 +1,5 @@
 # SQL-Blog-Database
 
-# SQL Blog Database Project  
-
 Designed and implemented a relational database for a blogging platform.  
 Includes schema design, data population, and analytical SQL queries.  
 
